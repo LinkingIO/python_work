@@ -1,2 +1,2 @@
 # Content
-This is the Python Crash Course Coding for <Python Crash Course> book
+This is the Coding program for **Python Crash Course** book
